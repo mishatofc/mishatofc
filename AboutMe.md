@@ -4,7 +4,7 @@ Hi 👋 I am Mazidul Islam Mishat
 Novice Front End Developer
 --------------------------
 
-Been learning to code and build sites from just a year. Not yet super highly skilled, but developing up myself day to day.
+Been learning to code and building sites from just a year. Not yet highly skilled, but developing up myself day to day.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Personal site](http://mishatofc.web.app)
