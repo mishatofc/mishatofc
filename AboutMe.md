@@ -9,7 +9,7 @@ Been learning to code and building sites from just a year. Not yet highly skille
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Personal site](http://mishatofc.web.app)
 * ✉️  You can contact me at [mazidulislammishat@gmail.com](mailto:mazidulislammishat@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React & JS
 
 ### Skills
 
