@@ -27,10 +27,8 @@ I don't just write code; I obsess over details. As a perfectionist and multipote
 <table>
   <tr>
     <td width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=mishatofc&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-        alt="Mishat's GitHub Stats"
-      />
+      <img src="https://streak-stats.demolab.com?user=mishatofc&theme=dark&hide_border=true" />
+
     </td>
     <td width="50%">
       <img
