@@ -24,7 +24,7 @@ I don't just write code; I obsess over details. As a perfectionist and multipote
 <table>
   <tr>
     <td width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishatofc&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" alt="Mishat's Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishatofc&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Mishat's Stats" />
     </td>
     <td width="50%">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishatofc&layout=compact&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
@@ -40,6 +40,8 @@ I don't just write code; I obsess over details. As a perfectionist and multipote
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mishatofc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mishat2004" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.com/users/mishat2004" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 </div>
