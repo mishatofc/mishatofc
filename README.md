@@ -1,11 +1,11 @@
 <div align="center">
 
 # Mazidul Islam Mishat  
-<sub><em>Design-First Developer • Multipotentialite</em></sub>
+<sub><em>Design-First Developer • Multidisciplinary</em></sub>
 
 <br />
 
-I don’t just write code — I obsess over **details, motion, and clarity**.  
+I don’t just write code - I obsess over **details, motion, and clarity**.  
 I build **polished, high-performance interfaces** in the React ecosystem,  
 where **design and engineering meet**.
 
